@@ -1,6 +1,8 @@
 # cljs vs phaser
 Repo with the minimal boilerplate to develop a [phaser](https://phaser.io) game using [cljs](https://clojurescript.org/)
 
+This is an rewrite of [Body Push Blocks](https://phaser.io/examples/v3.85.0/physics/arcade/view/body-push-blocks) example.
+
 ## Requirements
 - [npm](https://www.npmjs.com/)
 - [clojure](https://clojure.org/)
