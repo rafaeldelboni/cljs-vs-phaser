@@ -1,4 +1,4 @@
-(ns game.shadow.hooks
+(ns game.dev.shadow.hooks
   (:require
    [clojure.java.io :as io]
    [clojure.java.shell :as shell]
